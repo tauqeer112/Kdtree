@@ -1,3 +1,6 @@
+
+KD Tree implemented from scratch and tested for time improvement in KNN
+
 all_datapoints contains 30000 points in format id x y
 
 KnnKdTree.py is the python file which builds KD-Tree with given alpha and datapoints
